@@ -23,3 +23,12 @@ In today's complex business environment, supply chain management is crucial for 
 - **Predictive Analytics:** Utilize predictive analytics to forecast demand and optimize inventory management.
 - **Supplier Performance Tracking:** Track supplier performance metrics to ensure compliance and mitigate risks.
 - **User Authentication:** Secure user authentication and role-based access control to protect sensitive data.
+
+## Installation
+
+To run the Supply Chain Analytics Dashboard locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/username/supply-chain-analytics-dashboard.git
